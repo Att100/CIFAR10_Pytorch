@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-Use Pytorch to replicate some of the image classification models which include AlexNet, SqueezeNet, DenseNet, VGG16, ResNet18 and GoogLeNet.
+Use Pytorch to replicate some of the image classification models which include AlexNet, SqueezeNet, DenseNet, VGG16, MobileNet, ResNet18 and GoogLeNet.
 
 ## 2. Requirements
 

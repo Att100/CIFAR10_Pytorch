@@ -87,13 +87,15 @@ optional arguments:
   --mode MODE           res or img, res is for test accuracy while img is for test a single img (default: res)
   --weights-path WEIGHTS_PATH
                         saved model path (default: ./weights/VGG16_cifar10.pt)
+  --img IMG             test img path (default: ./test.jpeg)
+
 """
 
 # 2. test on test set (ResNet18)
 python test.py --model=ResNet18 --mode=res --weights-path=./weights/ResNet18_cifar10.pt
 
 # 3. test with single image (ResNet18)
-python test.py --model=ResNet18 --mode=img --weights-path=./weights/ResNet18_cifar10.pt
+python test.py --model=ResNet18 --mode=img --weights-path=./weights/ResNet18_cifar10.pt --img=./test.jpeg
 
 # 4. extra.
 ...

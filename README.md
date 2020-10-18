@@ -114,3 +114,12 @@ python test.py --model=ResNet18 --mode=img --weights-path=./weights/ResNet18_cif
 ![](./Nets_test_error.jpg)
 
 
+## 7. Weights and Dataset
+
+1. weights
+download link: https://drive.google.com/drive/folders/1ZK6IPvKLUo96mwRiDqB6E4iaUy-GmARO?usp=sharing
+using: put all .pt file into the weights folder
+
+2. dataset
+download link: http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
+using: put the cifar-10-batches-py folder in the dataset folder, you can find the structure of cifar-10-batches-py in ./dataset/dataset.md

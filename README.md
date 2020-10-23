@@ -125,3 +125,15 @@ download link: https://drive.google.com/drive/folders/1ZK6IPvKLUo96mwRiDqB6E4iaU
 2. dataset
 download link: http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
 (using: put the cifar-10-batches-py folder in the dataset folder, you can find the structure of cifar-10-batches-py in ./dataset/dataset.md)
+
+## 8. Papers
+1. VGG: [Very Deep Convolutional Networks for Large-Scale Image Recognition
+](https://arxiv.org/abs/1409.1556v6)
+2. ResNet: [Deep Residual Learning for Image Recognition
+](https://arxiv.org/abs/1512.03385v1)
+3. GoogLeNet: [Going Deeper with Convolutions
+](https://arxiv.org/abs/1409.4842v1)
+4. SqueezeNet: [SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and <0.5MB model size](https://arxiv.org/abs/1602.07360v4)
+5. AlexNet: [Imagenet classification with deep convolutional neural networks](http://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
+6. MobileNet: [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)
+7. DenseNet: [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993v5)

@@ -119,8 +119,7 @@ python test.py --model=ResNet18 --mode=img --weights-path=./weights/ResNet18_cif
 ## 7. Weights and Dataset
 
 1. weights
-download link: https://drive.google.com/drive/folders/1ZK6IPvKLUo96mwRiDqB6E4iaUy-GmARO?usp=sharing
-(using: put all .pt file into the weights folder)
+Weights trained on CIFAR10 for this project will be removed from Google Drive
 
 2. dataset
 download link: http://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
